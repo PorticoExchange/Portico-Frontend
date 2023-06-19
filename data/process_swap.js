@@ -1,5 +1,6 @@
-const swap = require ('Portico-Swap');
-const bitcoin = require ('bitcoin-js');
+const swap = require ('Portico-swap');
+const bitcoin = require ('bitcoinjs-lib');
+const liquid = require('liquidjs-lib');
 
 const bitcoin.network = bitcoin.network.testnet
 
