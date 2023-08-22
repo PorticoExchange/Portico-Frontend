@@ -1,2 +1,2 @@
-# Portico-Frontend
+# Portico Frontend
 Frontend for Portico
